@@ -1,5 +1,5 @@
 console.log("switch case statement:");
-var Div:string="V";
+var Div:string="M";
 
 switch(Div){
 	case "A":
